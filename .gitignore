@@ -1,0 +1,7 @@
+ReactNative.xcodeproj/xcuserdata/
+ReactNative.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+ReactNative.xcodeproj/project.xcworkspace/xcuserdata/
